@@ -1,0 +1,19 @@
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="25" cy="20" r="20" fill="url(#gradient)" stroke="white" stroke-width="2"/>
+  
+  <!-- JM initials -->
+  <text x="25" y="27" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">JM</text>
+  
+  <!-- Name text -->
+  <text x="60" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">Jenil Maru</text>
+  <text x="60" y="35" font-family="Arial, sans-serif" font-size="12" fill="#b8b8b8">Developer</text>
+  
+  <!-- Gradient definition -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#aa367c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4a2fbd;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>
